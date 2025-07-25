@@ -12,7 +12,7 @@ env_logger = "0.9.0"
 hyper = { version = "0.14.18", features = ["full"] }
 log = "0.4.16"
 prost = "0.10.1"
-serde = { version = "1.0.160", features = ["derive"] }
+serde = { version = "1.0.219", features = ["derive"] }
 tokio = { version = "1.18.0", features = ["full"] }
 tonic = "0.7.1"
 tonic-reflection = "0.4.0"
