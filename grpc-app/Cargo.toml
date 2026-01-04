@@ -19,4 +19,4 @@ tonic-reflection = "0.4.0"
 
 
 [build-dependencies]
-tonic-build = "0.7.1"
+tonic-build = "0.14.2"
